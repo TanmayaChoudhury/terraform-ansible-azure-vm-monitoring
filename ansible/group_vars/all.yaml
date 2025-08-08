@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "tanmaya.choudhury15@gmail.com"
+email_pass: "nyhu ppie mzlm optv"
+alert_recipient: "choudhuryrahul2002@gmail.com"
